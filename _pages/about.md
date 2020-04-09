@@ -1,7 +1,7 @@
 ---
 permalink: /about/
-title: "나메"
-excerpt: "이것은 나입니다."
+title: "나메입니다."
+excerpt: "나메의 소개글입니다."
 #layouts_gallery:
 #  - url: /assets/images/mm-layout-splash.png
 #    image_path: /assets/images/mm-layout-splash.png
@@ -12,9 +12,9 @@ excerpt: "이것은 나입니다."
 #  - url: /assets/images/mm-layout-archive.png
 #    image_path: /assets/images/mm-layout-archive.png
 #    alt: "archive layout example"
-last_modified_at: 2020-04-09T14:07:54-04:00
+last_modified_at: 2020-04-01T01:00:00
 comment: true
 toc: true
 ---
 
-# 개발자입니다.
+# 꾸준히 자기개발하는 개발자입니다.

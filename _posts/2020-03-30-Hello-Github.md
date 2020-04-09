@@ -1,7 +1,10 @@
 ---
-title: "First Post"
+title: "Hello Github"
+excerpt: "안녕 깃허브"
+last_modified_at: 2020-03-30T01:00:00
+toc: true
 ---
 
 # Hello Github
 
-* 꾸준하게 끝임없이 자기개발을 하는 개발자의 개인 블로그입니다.
+* 안녕 깃허브
