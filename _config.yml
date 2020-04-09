@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "NaMe / Kim Jun Hoi"
-  avatar           : /assets/myphoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/myphoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "나메의 깃허브 블로그 입니다"
   location         : "Seoul, South Korea"
   email            : "kjh2000a@hanmail.net"
