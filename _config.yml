@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kjh2000a/Blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "- Analysis And Develop -" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : # "- Analysis And Develop -" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,11 +93,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "NaMe / Kim Jun Hoi"
+  name             : "NaMe"
   avatar           : "/assets/myphoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "나메의 깃허브 블로그 입니다"
+  bio              : "- Analysis And Develop -"
   location         : "Seoul, South Korea"
   email            : "kjh2000a@hanmail.net"
+  github           : "kjh2000a"
+  gitlab           : "kjh2000a"
+  youtube          :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,12 +114,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kjh2000a/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/kjh2000a/"
 
 # Site Footer
 footer:
